@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IceCream</string>
+    <string name="heladitos">Heladitos</string>
+    <string name="logito_de_helado">Logito de helado</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="correo_el_ctronico">Correo Eléctronico</string>
+    <string name="iconito_de_email">iconito de email</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iconodelnombre">iconodelnombre</string>
+    <string name="iconodelapass">iconodelapass</string>
+    <string name="registrar">Registrar</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="registrarme">REGISTRARME</string>
+    <string name="olvidaste_tu_contrase_a">¿ Olvidaste tu contraseña ?</string>
+    <string name="a_n_no_te_registras">¿Aún no te registras?</string>
+    <string name="registrate">Registrate</string>
+    <string name="olvide_mi_contrase_a">Olvide mi Contraseña</string>
+    <string name="iniciar_con_google">INICIAR CON GOOGLE</string>
+</resources>
